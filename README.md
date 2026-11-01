@@ -1,4 +1,12 @@
 # fALL2026IRANreimagined-octo-funicular
+lets wws writ ebook by national iran activists coalition , national rejuvination recovery post war islamic regime republic damages undone
+
+your proposed is great idk , do whats best, also write hand off md so if you run out of token other agents could take over
+
+the book should also add include chapters aaround chin turk arab pakistani indian influence ops and huge migration and brain drain reverse migration in iran and future population bombs and lack of resources , earth is sikck, religion control level of 1984 has destroyed congregation congress , alwasys add chapters never rewrite chapters 
+
+https://github.com/imanbarati/effective-carnival
+also read and get inspired to add chapters from the previous book and also kick off go bever ask me anythng
 Here is a working plan for the ebook, written in the voice of a coalition and credited to it. The latest reporting shapes the framing, so I checked it first.
 
 What the current context gives the book

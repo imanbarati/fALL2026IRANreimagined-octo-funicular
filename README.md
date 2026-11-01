@@ -91,3 +91,19 @@ ch12-a-sick-planet.md
 ch13-hollow-mosque.md
 ch14-five-voices.md
 appendix-A-risks-and-objections.md
+
+
+PICK 6000 7000 SUBJECTS LIKE TIMELINE EVENTS AND LAWS AND PROGRAMS UNDERTAKEN UNDERTOOK BY WORLD GOVEERNMENTS AND HORRIFC IRAN GOVERNMENT AND WRITE PREFACE FOR THEIR CHAPTERS AND GIVE ME THE FILE I'M UPLOADING THESE TO GITHUB SO IF YOU CAN HELP ME BEST PRACTICES, NOTHING MUST BE OMMITED , ALWAYS NEW CHAPTERS
+
+ADD SEVERAL OTHER CHAPTERS HWO THE WORLD IS CHILDREN IN MINES, CHINESE IN MOON AND HOW HORMUZ OLD WORLD GOD IS DEAD NO MORE
+HOW GOD WAS IN THE BEGINING WHAT HE SAID HOW HE PICKED AND KILLED HIS TARGETS, 
+ANALYSIS OF TRUMP AND HIM SAYING HE KNOWS SECRETS MORE ABOUT ANYTHING THAN ANYONES
+Now the children-in-mines context.
+
+I added three new chapters (15–17) as new files, without touching chapters 1–14. HANDOFF.md now lists them with the new sources and the next free chapter number (18).
+
+- **Chapter 15, ch15-the-world-beyond-iran.md:** covers children in Congo's cobalt mines, China's Moon program, and the Strait of Hormuz. China's Chang'e-7 launch was postponed on 23 August 2026, possibly to 2027, and the crewed landing target is still 2030. Hormuz reports conflict: some show near-zero traffic and a record week of ship attacks in October, while others show convoys or call the strait open. I flagged that for verification. The chapter also argues that the old world order is fading and no new patron will rescue Iran.
+- **Chapter 16, ch16-in-the-beginning.md:** examines how gods are portrayed in the oldest Mesopotamian myths, the Hebrew Bible, the New Testament and the Quran. It looks at who gets targeted and why, and how rulers have used "the god chooses targets" to justify violence. Zoroastrianism, Iran's own older tradition, gets a section. It gives believers' and critics' readings equal room and is analysis rather than mockery. I took "old world god is dead" as the cultural claim that the old picture of divine authority has lost its hold, not as a statement that God doesn't exist.
+- **Chapter 17, ch17-nobody-knows-more.md:** a case study of Trump's "nobody knows more than me" rhetoric, with fact-checks, the supporters' and critics' readings, and what recovering states should learn. It then applies the same test to Iran's own leaders. I found no verified quote where he says he knows "secrets". The viral post claiming "nobody knows God better than me" was judged not authentic by Lead Stories and rated false by Media Bias Fact Check, and Snopes marked it unverifiable, so the chapter doesn't attribute it to him.
+
+The chapters are still shorter than the length target in HANDOFF.md.
